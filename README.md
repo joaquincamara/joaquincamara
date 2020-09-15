@@ -1,4 +1,4 @@
-![Screen Shot 2020-09-14 at 10 07 43 AM](https://user-images.githubusercontent.com/26718123/93240920-58f03800-f74a-11ea-9be8-0c76728249c6.png)
+![Screen Shot 2020-09-15 at 11 59 45 AM](https://user-images.githubusercontent.com/26718123/93241519-0e22f000-f74b-11ea-827c-3b41ab30b08a.png)
 
 <!--
 **joaquincamara/joaquincamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
